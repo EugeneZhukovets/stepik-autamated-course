@@ -1,2 +1,2 @@
-# stepik-autamated-course
+# stepik-autom-course
 Just for learn
